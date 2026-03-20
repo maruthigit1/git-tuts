@@ -1,0 +1,5 @@
+configuration :{
+    type:operation
+}
+
+slect 1;
